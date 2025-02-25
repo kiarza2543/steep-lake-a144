@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "steep-lake-a144",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5a4d4f75-6cec-447f-9b2f-984f2139f439",
+      "database_name": "steep-lake-a144-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
